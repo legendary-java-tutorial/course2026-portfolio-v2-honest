@@ -1,5 +1,15 @@
-# Шаблон портфолио
+# Портфолио Ани Петровой
 
-Шаблон личного сайта-портфолио для GitHub Pages.
+Личный сайт-портфолио: кто я, мои учебные работы и как со мной связаться.
 
-Замени текст-заглушку и картинки в `media/` своими. Разметку не удаляй: меняется текст между тегами и значения `src`, `alt`, `href`.
+![Главная страница портфолио](media/site-screenshot.png)
+
+**Сайт:** https://legendary-java-tutorial.github.io/course2026-portfolio-v2-honest/
+
+## Как сделать такой же
+
+Открой шаблон курса https://github.com/legendary-java-tutorial/course2026-portfolio-template и нажми **Use this template**.
+
+## Автор
+
+Аня Петрова — https://github.com/legendary-java-tutorial
